@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Iheb built the Securor app as an Ad Supported app. This SERVICE is provided by Iheb at no cost and is intended for use as is.
+Iheb built the Securor app as a Free app. This SERVICE is provided by Iheb at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -18,6 +18,11 @@ Link to the privacy policy of third-party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [One Signal](https://onesignal.com/privacy_policy)
+
+**Log Data**
+
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
 **Cookies**
 
@@ -52,7 +57,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2022-08-23
+This policy is effective as of 2022-10-22
 
 **Contact Us**
 
